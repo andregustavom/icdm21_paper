@@ -1,0 +1,91 @@
+source("./exec_eval_complexity.r")
+exec_eval_complexity(MFtr)
+exec_eval_complexity(0.5)
+source("./exec_eval_complexity.r")
+exec_eval_complexity(0.5)
+source("./exec_eval_complexity.r")
+exec_eval_complexity(0.5)
+source("./exec_eval_complexity.r")
+exec_eval_complexity(0.5)
+source("./exec_eval_complexity.r")
+exec_eval_complexity(0.5)
+source("./exec_eval_complexity.r")
+exec_eval_complexity(0.5)
+source("./exec_eval_complexity.r")
+exec_eval_complexity(0.5)
+source("./exec_eval_complexity.r")
+exec_eval_complexity(0.5)
+source("./exec_eval_complexity.r")
+exec_eval_complexity(0.5)
+source("./load_libraries.r")
+exec_eval_complexity(0.5)
+Q
+q()
+exec_eval_complexity(0.5)
+source("./exec_eval_complexity.r")
+exec_eval_complexity(0.5)
+source("./exec_eval_complexity.r")
+exec_eval_complexity(0.5)
+source("./exec_eval_complexity.r")
+exec_eval_complexity(0.5)
+source("./exec_eval_complexity.r")
+exec_eval_complexity(0.5)
+qntMethod
+p.score
+n.score
+test_set
+TprFpr
+vdist[strsplit(qi,"-")[[1]][2]]
+apply.qntMethod(qntMethod = qntMethod, #
+                                        p.score = p.score, #
+                                        n.score = n.score, #
+                                        test = test_set, #
+                                        TprFpr = TprFpr, #
+                                        thr = 0.5,#
+                                        measure = vdist[strsplit(qi,"-")[[1]][2]], #
+                                        nBins = NULL#
+                                       )
+apply.qntMethod(qntMethod = "CC", #
+                                        p.score = p.score, #
+                                        n.score = n.score, #
+                                        test = test_set, #
+                                        TprFpr = TprFpr, #
+                                        thr = 0.5,#
+                                        measure = vdist[strsplit(qi,"-")[[1]][2]], #
+                                        nBins = NULL#
+                                       )
+apply.qntMethod(qntMethod = "MS", #
+                                        p.score = p.score, #
+                                        n.score = n.score, #
+                                        test = test_set, #
+                                        TprFpr = TprFpr, #
+                                        thr = 0.5,#
+                                        measure = vdist[strsplit(qi,"-")[[1]][2]], #
+                                        nBins = NULL#
+                                       )
+apply.qntMethod(qntMethod = "DyS", #
+                                        p.score = p.score, #
+                                        n.score = n.score, #
+                                        test = test_set, #
+                                        TprFpr = TprFpr, #
+                                        thr = 0.5,#
+                                        measure = vdist[strsplit(qi,"-")[[1]][2]], #
+                                        nBins = NULL#
+                                       )
+Q
+source("./exec_eval_complexity.r")
+exec_eval_complexity(0.5)
+apply.qntMethod(qntMethod = qntMethod, #
+                                        p.score = p.score, #
+                                        n.score = n.score, #
+                                        test = test_set, #
+                                        TprFpr = TprFpr, #
+                                        thr = 0.5,#
+                                        measure = vdist[strsplit(qi,"-")[[1]][2]], #
+                                        nBins = NULL#
+                                       )
+Q
+source("./exec_eval_complexity.r")
+exec_eval_complexity(0.5)
+source("./exec_eval_complexity.r")
+exec_eval_complexity(0.5)
